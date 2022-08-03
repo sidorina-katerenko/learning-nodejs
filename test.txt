@@ -1,3 +1,0 @@
-Hello everyone! 
-
-My name is Kate, and I want to use Node.js in my future projects.
