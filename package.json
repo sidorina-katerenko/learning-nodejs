@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidorina-katerenko/learning-nodejs.git"
+  },
+  "author": "Kate Khovrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidorina-katerenko/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/sidorina-katerenko/learning-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
